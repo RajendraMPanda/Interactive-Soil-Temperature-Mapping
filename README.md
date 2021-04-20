@@ -1,5 +1,4 @@
-Created by Rajendra Panda
-Supported by Matt Levi
+Created by Rajendra Panda; Supported by Matt Levi
 In nutcell, App helps in
 Creating interactive platform using R-Shiny
 Importing raster layers from a brwoser 
