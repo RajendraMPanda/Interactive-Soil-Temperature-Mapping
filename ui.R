@@ -1,8 +1,8 @@
 
 ui<-  dashboardPage(
     skin = "green",
-    dashboardHeader(title = "Soil moisture/temperature regimes for Oklahoma derived by averaging daily values
-                    800m PRISM data between 2000-2018", titleWidth = 1300),
+    dashboardHeader(title = "Soil moisture/temperature regimes for Oklahoma State
+                 ", titleWidth = 800),
     dashboardSidebar(width = 75,
                      sidebarMenu(
                      menuItem(h4("Soil"), 
