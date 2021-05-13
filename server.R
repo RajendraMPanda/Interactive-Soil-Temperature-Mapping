@@ -1,5 +1,5 @@
 server<-function(input, output) {
-  #Import raster files for displaying
+  #Import raster files
   STR <- raster("OK_STR.grd")
   SMR <- raster("OK_SMR.grd")
   observeEvent(input$soil, {
